@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:42:35.559062
+#+DATE: 2015-08-30 20:42:37.082601
 #+TITLE: 根本說一切有部毘奈耶尼陀那目得迦攝頌
 #+PROPERTY: CBETA_ID T24n1456
 #+PROPERTY: ID KR6k0037
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 24, No. 1456
 #+PROPERTY: VOL 24
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6k0037_T_001-0517c> 
 #+PROPERTY: JUAN 1
 ¶
-No.1456¶
-
- 根本說一切有部毘奈耶尼陀那¶
+No. 1456¶
+根本說一切有部毘奈耶尼陀那¶
 目得迦攝頌一卷¶
 ¶
 三藏法師義淨奉　制譯¶
@@ -278,7 +277,7 @@ No.1456¶
 
 第五子攝頌曰。
 #+BEGIN_VERSE
-「　藥器及𣰽毺
+「　藥器及[毯-炎+瞿]毺
 　承足枮瀉藥¶
 　苾芻不應作
 　當擇死人衣
@@ -828,7 +827,7 @@ No.1456¶
 #+BEGIN_VERSE
 「　與田分相助
 　車船沸自取¶
-　鳥[嘴-角+鳥]蠅無慚
+　鳥⬤[嘴-角+鳥]蠅無慚
 　制底信少欲
 #+END_VERSE
 」¶
@@ -865,7 +864,7 @@ No.1456¶
 #+BEGIN_VERSE
 「　僧衣題施主
 　別人施私記¶
-　㲲𣯫許別人
+　[疊*毛][毯-炎+婁]許別人
 　尼夏應修理
 #+END_VERSE
 」¶
