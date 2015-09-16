@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 根本說一切有部毘奈耶尼陀那目得迦攝頌
+#+DATE: 2015-08-30 20:42:35.773973
+#+PROPERTY: JUAN 0
